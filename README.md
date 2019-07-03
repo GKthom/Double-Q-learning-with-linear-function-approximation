@@ -1,14 +1,10 @@
 # Project Title
 
-Deep Q learning algorithm implemented in MATLAB on a continuous 2D navigation problem.
+Python implementation of double Q learning
 
-## Getting Started
+## Setup
 
-Run main_NN.m
-
-### Prerequisites
-
-MATLAB neural networks toolbox
+Simply run doubleQ.py. Paramaters can be changed in the params.py file
 
 ## Authors
 
